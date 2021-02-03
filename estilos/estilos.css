@@ -3,3 +3,13 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: deeppink;
 }
+#container{
+    width: 80%;
+    padding: 1em;
+    text-align: right;
+    border: 1px solid goldenrod;
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 60%;
+}
