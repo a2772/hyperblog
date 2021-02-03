@@ -25,3 +25,9 @@ body{
     margin: 0 0 0 1em;
     font-weight: normal;
 }
+.texto{
+    color: black;
+    padding-left: 4%;
+    text-align: left;
+    font-weight: lighter;
+}
